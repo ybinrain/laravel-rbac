@@ -1,0 +1,10 @@
+{
+    "name": "ybinrain/laravel-rbac",
+    "authors": [
+        {
+            "name": "赵永斌",
+            "email": "zhaoyongbin@xiaomi.com"
+        }
+    ],
+    "require": {}
+}
